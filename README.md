@@ -59,8 +59,8 @@ After completion of printing,post processing is carried out to refine and enhanc
 
 
 
-### Name:SARAVANA KUMAR
-### Register Number:212222230133
+### Name:THIYAGARAJAN A
+### Register Number:212222240110
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
